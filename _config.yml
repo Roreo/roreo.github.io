@@ -3,3 +3,6 @@ theme: jekyll-theme-cayman
 # Setup
 title:        [Hey Josh]
 description:  [How to make a website in a few minutes]
+baseurl:      ""
+values:
+      layout: single
