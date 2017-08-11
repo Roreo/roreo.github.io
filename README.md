@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/Roreo/roreo.github.io/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## Make a new page!
+You can easily add pages to the site using basic html code. Check out this one: http://roreo.github.io/index.html
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
